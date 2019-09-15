@@ -22,7 +22,7 @@ Select a letter and it will let you know if you are correct, wrong, and how many
 
 If you get it wrong it will ask if you want to play again or exit
 
-![losing](demo/losing.gif)
+![losing](demo/Losing.gif)
 
 
 ## Built With
